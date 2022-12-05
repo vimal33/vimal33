@@ -5,7 +5,7 @@
 <body>
 
 <a href="http://clipart-library.com/img/961626.gif"> <!--for view this image-->
-<img align="right" alt="coding" border="4"  width="500" height="700" src="http://clipart-library.com/img/961626.gif" >
+<img align="right" alt="coding" border="4"  width="300" height="500" src="http://clipart-library.com/img/961626.gif" >
 </a>
 
 
