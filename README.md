@@ -1,6 +1,13 @@
 
-<a href="C:\Users\Vimal\Documents\xmas.gif"> <!--for view this image-->
-<img src="C:\Users\Vimal\Documents\xmas.gif"  border="4"  width="500" height="300" >
+ 
+<html>
+<head></head>
+<body>
+
+<a href="C:\Users\Vimal\Downloads\Merry.gif"> <!--for view this image-->
+<img src="C:\Users\Vimal\Downloads\Merry.gif"  border="4"  width="700" height="700" >
+</a>
+
 
 
 <h1 align="center">Hi 👋, I'm Vimal Raj.C</h1>
@@ -26,3 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vimal33&show_icons=true&locale=en" alt="vimal33" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vimal33&" alt="vimal33" /></p>
+
+</body>
+</html>
