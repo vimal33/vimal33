@@ -1,6 +1,6 @@
 
-<a href="C:\Users\Vimal\Documents\vira.jpg"> <!--for view this image-->
-<img src="C:\Users\Vimal\Documents\vira.jpg"  border="4"  width="1400" height="300" >
+<a href="C:\Users\Vimal\Documents\xmas.gif"> <!--for view this image-->
+<img src="C:\Users\Vimal\Documents\xmas.gif"  border="4"  width="500" height="300" >
 
 
 <h1 align="center">Hi 👋, I'm Vimal Raj.C</h1>
