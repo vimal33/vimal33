@@ -4,8 +4,8 @@
 <head></head>
 <body>
 
-<a href="C:\Users\Vimal\Downloads\black.jpg"> <!--for view this image-->
-<img src="C:\Users\Vimal\Downloads\black.jpg"  border="4"  width="500" height="700" >
+<a href="http://clipart-library.com/img/961626.gif"> <!--for view this image-->
+<img align="right" alt="coding" border="4"  width="500" height="700" src="http://clipart-library.com/img/961626.gif" >
 </a>
 
 
@@ -36,3 +36,4 @@
 
 </body>
 </html>
+
