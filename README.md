@@ -4,7 +4,7 @@
 <head></head>
 <body>
 <body bgcolor="black">
-<a href="http://clipart-library.com/clipart/987317.htm"><img src="http://clipart-library.com/img/987317.gif" width="300" height="350" /></a>
+<a href="http://clipart-library.com/clipart/987317.htm"><img src="http://clipart-library.com/img/987317.gif" width="300" height="400" /></a>
 <a href="http://clipart-library.com/clipart/987245.htm"><img src="http://clipart-library.com/img/987245.gif" width="250" height="300" /></a>
 <a href="http://clipart-library.com/clipart/961626.htm"><img src="http://clipart-library.com/img/961626.gif" width="350" height="400" /></a>
 
