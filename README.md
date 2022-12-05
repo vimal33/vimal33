@@ -3,6 +3,7 @@
 <html>
 <head></head>
 <body>
+<bg color="red">
 <a href="http://clipart-library.com/clipart/987317.htm"><img src="http://clipart-library.com/img/987317.gif" width="300" height="350" /></a>
 
 <a href="http://clipart-library.com/img/961626.gif"> <!--for view this image-->
