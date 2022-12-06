@@ -1,5 +1,3 @@
-
- 
 <html>
 <head></head>
 <body>
@@ -7,8 +5,6 @@
 <a href="http://clipart-library.com/clipart/987317.htm"><img src="http://clipart-library.com/img/987317.gif" width="300" height="400" /></a>
 <a href="http://clipart-library.com/clipart/87333.htm"><img src="http://clipart-library.com/data_images/87333.gif" width="200" height="170" /></a>
 <a href="http://clipart-library.com/clipart/987245.htm"><img src="http://clipart-library.com/img/987245.gif" width="250" height="300" /></a>
-
-
 <h1 align="center">Hi 👋, I'm Vimal Raj.C</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimal33&label=Profile%20views&color=0e75b6&style=flat" alt="vimal33" /> </p>
 
